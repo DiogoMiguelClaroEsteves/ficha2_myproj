@@ -1,1 +1,7 @@
 texto file3
+
+algumas
+
+linhas
+
+adicionadas
